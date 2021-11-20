@@ -21,7 +21,7 @@ Instala archivos necesarios
 ```
 Clona este repositorio
  ```bash
-> https://github.com/Lilpeepdemonx/LEGIONARIO
+> git clone https://github.com/Lilpeepdemonx/LEGIONARIO
 ```
 Inicia la instalacion
 ```bash
