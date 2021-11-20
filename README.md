@@ -21,11 +21,11 @@ Instala archivos necesarios
 ```
 Clona este repositorio
  ```bash
-> git clone https://github.com/thechoute/Base
+> https://github.com/Lilpeepdemonx/LEGIONARIO
 ```
 Inicia la instalacion
 ```bash
-- cd Base
+- cd LEGIONARIO 
 - bash install.sh
 ```
 PARA INICIAR EL BOT
