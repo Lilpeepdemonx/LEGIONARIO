@@ -6,8 +6,8 @@ const fs = require('fs');
 const prefix = '.'
 const conn = require("./lib/index")
 conn.connect()
-const client = conn.client
-client.on('chat-update', async (mek) => {
+const LEGIONARIO = conn.LEGIONARIO
+LEGIONARIO.on('chat-update', async (mek) => {
 try {	  
 if (!mek.hasNewMessage) return
 if (!mek.messages) return
