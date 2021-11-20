@@ -33,4 +33,4 @@ PARA INICIAR EL BOT
  ```bash
 - npm start
 ```
-
+- npm i
